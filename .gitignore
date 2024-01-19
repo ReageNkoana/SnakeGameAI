@@ -1,0 +1,31 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.xlsx
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+*.idea/
+
+# Model folder
+model/
